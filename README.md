@@ -47,4 +47,4 @@ Interactive slicers make it easy to filter the data and explore different custom
 
 - Bike Sales Dataset.xlsx
 - README.md
-
+- Bike Sales Dashboard.png
